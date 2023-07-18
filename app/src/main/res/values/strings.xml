@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Library LR system</string>
+    <string name="borrow">Borrow</string>
+    <string name="Return">Return</string>
+    <string name="about">About</string>
+    <string name="title">Smart library lending and  registration system</string>
+    <string name="title_activity_about_page">aboutPage</string>
+    <string name="about_description">This application was developed by the students of III BCA (2020-2023)
+
+        Abhishek.S
+        Karthikeyan.A
+        Guber akshay raj.R
+
+    Mentored by Mr.Kirubakaran</string>
+    <string name="Borrow1">Scan the student information</string>
+    <string name="Borrow2">Scan the Book information</string>
+    <string name="done">Done</string>
+    <string name="next">Next</string>
+
+</resources>
